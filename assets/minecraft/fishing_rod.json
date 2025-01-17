@@ -22,11 +22,11 @@
                     "property": "minecraft:fishing_rod/cast",
                     "on_false": {
                         "type": "minecraft:model",
-                        "model": "edofishing:item/rod/dead_coral_rod"
+                        "model": "edofishing:item/rod/overworld/dead_coral_rod"
                     },
                     "on_true": {
                         "type": "minecraft:model",
-                        "model": "edofishing:item/rod/dead_coral_rod_cast"
+                        "model": "edofishing:item/rod/overworld/dead_coral_rod_cast"
                     }
                 }
             },
@@ -37,11 +37,11 @@
                     "property": "minecraft:fishing_rod/cast",
                     "on_false": {
                         "type": "minecraft:model",
-                        "model": "edofishing:item/rod/solitary_coral_rod"
+                        "model": "edofishing:item/rod/overworld/solitary_coral_rod"
                     },
                     "on_true": {
                         "type": "minecraft:model",
-                        "model": "edofishing:item/rod/solitary_coral_rod_cast"
+                        "model": "edofishing:item/rod/overworld/solitary_coral_rod_cast"
                     }
                 }
             },
@@ -52,11 +52,11 @@
                     "property": "minecraft:fishing_rod/cast",
                     "on_false": {
                         "type": "minecraft:model",
-                        "model": "edofishing:item/rod/coral_whip_rod"
+                        "model": "edofishing:item/rod/overworld/whip_coral_rod"
                     },
                     "on_true": {
                         "type": "minecraft:model",
-                        "model": "edofishing:item/rod/coral_whip_rod_cast"
+                        "model": "edofishing:item/rod/overworld/whip_coral_rod_cast"
                     }
                 }
             },
@@ -67,11 +67,11 @@
                     "property": "minecraft:fishing_rod/cast",
                     "on_false": {
                         "type": "minecraft:model",
-                        "model": "edofishing:item/rod/black_coral_rod"
+                        "model": "edofishing:item/rod/overworld/black_coral_rod"
                     },
                     "on_true": {
                         "type": "minecraft:model",
-                        "model": "edofishing:item/rod/black_coral_rod_cast"
+                        "model": "edofishing:item/rod/overworld/black_coral_rod_cast"
                     }
                 }
             },
@@ -82,11 +82,11 @@
                     "property": "minecraft:fishing_rod/cast",
                     "on_false": {
                         "type": "minecraft:model",
-                        "model": "edofishing:item/rod/coral_mushroom_rod"
+                        "model": "edofishing:item/rod/overworld/mushroom_coral_rod"
                     },
                     "on_true": {
                         "type": "minecraft:model",
-                        "model": "edofishing:item/rod/coral_mushroom_rod_cast"
+                        "model": "edofishing:item/rod/overworld/mushroom_coral_rod_cast"
                     }
                 }
             },
@@ -97,11 +97,11 @@
                     "property": "minecraft:fishing_rod/cast",
                     "on_false": {
                         "type": "minecraft:model",
-                        "model": "edofishing:item/rod/fire_coral_rod"
+                        "model": "edofishing:item/rod/overworld/fire_coral_rod"
                     },
                     "on_true": {
                         "type": "minecraft:model",
-                        "model": "edofishing:item/rod/fire_coral_rod_cast"
+                        "model": "edofishing:item/rod/overworld/fire_coral_rod_cast"
                     }
                 }
             },
@@ -112,11 +112,11 @@
                     "property": "minecraft:fishing_rod/cast",
                     "on_false": {
                         "type": "minecraft:model",
-                        "model": "edofishing:item/rod/sun_coral_rod"
+                        "model": "edofishing:item/rod/overworld/sun_coral_rod"
                     },
                     "on_true": {
                         "type": "minecraft:model",
-                        "model": "edofishing:item/rod/sun_coral_rod_cast"
+                        "model": "edofishing:item/rod/overworld/sun_coral_rod_cast"
                     }
                 }
             },
@@ -127,11 +127,11 @@
                     "property": "minecraft:fishing_rod/cast",
                     "on_false": {
                         "type": "minecraft:model",
-                        "model": "edofishing:item/rod/horn_coral_rod"
+                        "model": "edofishing:item/rod/overworld/horn_coral_rod"
                     },
                     "on_true": {
                         "type": "minecraft:model",
-                        "model": "edofishing:item/rod/horn_coral_rod_cast"
+                        "model": "edofishing:item/rod/overworld/horn_coral_rod_cast"
                     }
                 }
             },
@@ -142,11 +142,11 @@
                     "property": "minecraft:fishing_rod/cast",
                     "on_false": {
                         "type": "minecraft:model",
-                        "model": "edofishing:item/rod/bone_rod"
+                        "model": "edofishing:item/rod/nether/bone_rod"
                     },
                     "on_true": {
                         "type": "minecraft:model",
-                        "model": "edofishing:item/rod/bone_rod_cast"
+                        "model": "edofishing:item/rod/nether/bone_rod_cast"
                     }
                 }
             },
@@ -157,11 +157,11 @@
                     "property": "minecraft:fishing_rod/cast",
                     "on_false": {
                         "type": "minecraft:model",
-                        "model": "edofishing:item/rod/quartz_rod"
+                        "model": "edofishing:item/rod/nether/quartz_rod"
                     },
                     "on_true": {
                         "type": "minecraft:model",
-                        "model": "edofishing:item/rod/quartz_rod_cast"
+                        "model": "edofishing:item/rod/nether/quartz_rod_cast"
                     }
                 }
             },
@@ -172,11 +172,11 @@
                     "property": "minecraft:fishing_rod/cast",
                     "on_false": {
                         "type": "minecraft:model",
-                        "model": "edofishing:item/rod/basaltic_rod"
+                        "model": "edofishing:item/rod/nether/basaltic_rod"
                     },
                     "on_true": {
                         "type": "minecraft:model",
-                        "model": "edofishing:item/rod/basaltic_rod_cast"
+                        "model": "edofishing:item/rod/nether/basaltic_rod_cast"
                     }
                 }
             },
@@ -187,11 +187,11 @@
                     "property": "minecraft:fishing_rod/cast",
                     "on_false": {
                         "type": "minecraft:model",
-                        "model": "edofishing:item/rod/gilded_rod"
+                        "model": "edofishing:item/rod/nether/gilded_rod"
                     },
                     "on_true": {
                         "type": "minecraft:model",
-                        "model": "edofishing:item/rod/gilded_rod_cast"
+                        "model": "edofishing:item/rod/nether/gilded_rod_cast"
                     }
                 }
             },
@@ -202,11 +202,11 @@
                     "property": "minecraft:fishing_rod/cast",
                     "on_false": {
                         "type": "minecraft:model",
-                        "model": "edofishing:item/rod/netherite_rod"
+                        "model": "edofishing:item/rod/nether/netherite_rod"
                     },
                     "on_true": {
                         "type": "minecraft:model",
-                        "model": "edofishing:item/rod/netherite_rod_cast"
+                        "model": "edofishing:item/rod/nether/netherite_rod_cast"
                     }
                 }
             },
@@ -217,11 +217,11 @@
                     "property": "minecraft:fishing_rod/cast",
                     "on_false": {
                         "type": "minecraft:model",
-                        "model": "edofishing:item/rod/carmesi_rod"
+                        "model": "edofishing:item/rod/nether/carmesi_rod"
                     },
                     "on_true": {
                         "type": "minecraft:model",
-                        "model": "edofishing:item/rod/carmesi_rod_cast"
+                        "model": "edofishing:item/rod/nether/carmesi_rod_cast"
                     }
                 }
             },
@@ -232,11 +232,11 @@
                     "property": "minecraft:fishing_rod/cast",
                     "on_false": {
                         "type": "minecraft:model",
-                        "model": "edofishing:item/rod/magmatic_rod"
+                        "model": "edofishing:item/rod/nether/magmatic_rod"
                     },
                     "on_true": {
                         "type": "minecraft:model",
-                        "model": "edofishing:item/rod/magmatic_rod_cast"
+                        "model": "edofishing:item/rod/nether/magmatic_rod_cast"
                     }
                 }
             },
@@ -247,11 +247,11 @@
                     "property": "minecraft:fishing_rod/cast",
                     "on_false": {
                         "type": "minecraft:model",
-                        "model": "edofishing:item/rod/warped_rod"
+                        "model": "edofishing:item/rod/nether/warped_rod"
                     },
                     "on_true": {
                         "type": "minecraft:model",
-                        "model": "edofishing:item/rod/warped_rod_cast"
+                        "model": "edofishing:item/rod/nether/warped_rod_cast"
                     }
                 }
             }
