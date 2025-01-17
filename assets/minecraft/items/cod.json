@@ -1397,266 +1397,266 @@
                 "threshold": 61001,
                 "model": {
                     "type": "model",
-                    "model": "edoween:item/fish/anchoa_de_gominola"
+                    "model": "edofishing:item/fish/edoween/anchoa_de_gominola"
                 }
             },
             {
                 "threshold": 61002,
                 "model": {
                     "type": "model",
-                    "model": "edoween:item/fish/arana"
+                    "model": "edofishing:item/fish/edoween/arana"
                 }
             },
             {
                 "threshold": 61003,
                 "model": {
                     "type": "model",
-                    "model": "edoween:item/fish/bacalao_espeluznante"
+                    "model": "edofishing:item/fish/edoween/bacalao_espeluznante"
                 }
             },
             {
                 "threshold": 61004,
                 "model": {
                     "type": "model",
-                    "model": "edoween:item/fish/bruja_picarona"
+                    "model": "edofishing:item/fish/edoween/bruja_picarona"
                 }
             },
             {
                 "threshold": 61005,
                 "model": {
                     "type": "model",
-                    "model": "edoween:item/fish/diablillo"
+                    "model": "edofishing:item/fish/edoween/diablillo"
                 }
             },
             {
                 "threshold": 61006,
                 "model": {
                     "type": "model",
-                    "model": "edoween:item/fish/fantasma"
+                    "model": "edofishing:item/fish/edoween/fantasma"
                 }
             },
             {
                 "threshold": 61007,
                 "model": {
                     "type": "model",
-                    "model": "edoween:item/fish/gato_negro"
+                    "model": "edofishing:item/fish/edoween/gato_negro"
                 }
             },
             {
                 "threshold": 61008,
                 "model": {
                     "type": "model",
-                    "model": "edoween:item/fish/mandragora"
+                    "model": "edofishing:item/fish/edoween/mandragora"
                 }
             },
             {
                 "threshold": 61009,
                 "model": {
                     "type": "model",
-                    "model": "edoween:item/fish/mimico"
+                    "model": "edofishing:item/fish/edoween/mimico"
                 }
             },
             {
                 "threshold": 61010,
                 "model": {
                     "type": "model",
-                    "model": "edoween:item/fish/murcielago"
+                    "model": "edofishing:item/fish/edoween/murcielago"
                 }
             },
             {
                 "threshold": 61011,
                 "model": {
                     "type": "model",
-                    "model": "edoween:item/fish/ojo_de_ciclope"
+                    "model": "edofishing:item/fish/edoween/ojo_de_ciclope"
                 }
             },
             {
                 "threshold": 61012,
                 "model": {
                     "type": "model",
-                    "model": "edoween:item/fish/parca"
+                    "model": "edofishing:item/fish/edoween/parca"
                 }
             },
             {
                 "threshold": 61013,
                 "model": {
                     "type": "model",
-                    "model": "edoween:item/fish/pez_globo_de_chicle"
+                    "model": "edofishing:item/fish/edoween/pez_globo_de_chicle"
                 }
             },
             {
                 "threshold": 61014,
                 "model": {
                     "type": "model",
-                    "model": "edoween:item/fish/pirana_zombi"
+                    "model": "edofishing:item/fish/edoween/pirana_zombi"
                 }
             },
             {
                 "threshold": 61015,
                 "model": {
                     "type": "model",
-                    "model": "edoween:item/fish/rana_bruja"
+                    "model": "edofishing:item/fish/edoween/rana_bruja"
                 }
             },
             {
                 "threshold": 61016,
                 "model": {
                     "type": "model",
-                    "model": "edoween:item/fish/evil_rana"
+                    "model": "edofishing:item/fish/edoween/evil_rana"
                 }
             },
             {
                 "threshold": 61017,
                 "model": {
                     "type": "model",
-                    "model": "edoween:item/fish/rata"
+                    "model": "edofishing:item/fish/edoween/rata"
                 }
             },
             {
                 "threshold": 61018,
                 "model": {
                     "type": "model",
-                    "model": "edoween:item/fish/slime_de_azucar"
+                    "model": "edofishing:item/fish/edoween/slime_de_azucar"
                 }
             },
             {
                 "threshold": 61019,
                 "model": {
                     "type": "model",
-                    "model": "edoween:item/fish/mini_gran_calabaza"
+                    "model": "edofishing:item/fish/edoween/mini_gran_calabaza"
                 }
             },
             {
                 "threshold": 61020,
                 "model": {
                     "type": "model",
-                    "model": "edoween:item/fish/boo"
+                    "model": "edofishing:item/fish/edoween/boo"
                 }
             },
             {
                 "threshold": 62001,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/fish/barbo_nevado"
+                    "model": "edofishing:item/fish/edoxmas/barbo_nevado"
                 }
             },
             {
                 "threshold": 62002,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/fish/estrella_de_mar_de_jengibre"
+                    "model": "edofishing:item/fish/edoxmas/estrella_de_mar_de_jengibre"
                 }
             },
             {
                 "threshold": 62003,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/fish/estrella_de_mar_polar"
+                    "model": "edofishing:item/fish/edoxmas/estrella_de_mar_polar"
                 }
             },
             {
                 "threshold": 62004,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/fish/muneco_de_jengibre"
+                    "model": "edofishing:item/fish/edoxmas/muneco_de_jengibre"
                 }
             },
             {
                 "threshold": 62005,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/fish/muneco_de_nieve"
+                    "model": "edofishing:item/fish/edoxmas/muneco_de_nieve"
                 }
             },
             {
                 "threshold": 62006,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/fish/pez_bola_de_nieve"
+                    "model": "edofishing:item/fish/edoxmas/pez_bola_de_nieve"
                 }
             },
             {
                 "threshold": 62007,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/fish/pez_carambano"
+                    "model": "edofishing:item/fish/edoxmas/pez_carambano"
                 }
             },
             {
                 "threshold": 62008,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/fish/pez_christmas_tree"
+                    "model": "edofishing:item/fish/edoxmas/pez_christmas_tree"
                 }
             },
             {
                 "threshold": 62009,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/fish/pez_foquito"
+                    "model": "edofishing:item/fish/edoxmas/pez_foquito"
                 }
             },
             {
                 "threshold": 62010,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/fish/pez_foquito_multicolor"
+                    "model": "edofishing:item/fish/edoxmas/pez_foquito_multicolor"
                 }
             },
             {
                 "threshold": 62011,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/fish/pez_globo_de_nieve"
+                    "model": "edofishing:item/fish/edoxmas/pez_globo_de_nieve"
                 }
             },
             {
                 "threshold": 62012,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/fish/pez_pino"
+                    "model": "edofishing:item/fish/edoxmas/pez_pino"
                 }
             },
             {
                 "threshold": 62013,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/fish/pez_pipa_glacial"
+                    "model": "edofishing:item/fish/edoxmas/pez_pipa_glacial"
                 }
             },
             {
                 "threshold": 62014,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/fish/pez_platija_escarchado"
+                    "model": "edofishing:item/fish/edoxmas/pez_platija_escarchado"
                 }
             },
             {
                 "threshold": 62015,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/fish/pez_regalo"
+                    "model": "edofishing:item/fish/edoxmas/pez_regalo"
                 }
             },
             {
                 "threshold": 62016,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/fish/pinguino_guaton"
+                    "model": "edofishing:item/fish/edoxmas/pinguino_guaton"
                 }
             },
             {
                 "threshold": 62017,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/fish/rana_invernal"
+                    "model": "edofishing:item/fish/edoxmas/rana_invernal"
                 }
             },
             {
                 "threshold": 62018,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/fish/salmon_cunao"
+                    "model": "edofishing:item/fish/edoxmas/salmon_cunao"
                 }
             },
             {
