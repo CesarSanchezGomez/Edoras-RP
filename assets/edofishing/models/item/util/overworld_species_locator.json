@@ -1,1 +1,6 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"customfishing:item/util/overworld_species_locator"}}
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "edofishing:item/util/overworld_species_locator"
+    }
+}

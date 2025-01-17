@@ -200,56 +200,56 @@
                 "threshold": 50003,
                 "model": {
                     "type": "model",
-                    "model": "edoedofishing:item/bait/magnetic_bait"
+                    "model": "edofishing:item/bait/magnetic_bait"
                 }
             },
             {
                 "threshold": 50004,
                 "model": {
                     "type": "model",
-                    "model": "edoedofishing:item/bait/worm_bait"
+                    "model": "edofishing:item/bait/worm_bait"
                 }
             },
             {
                 "threshold": 50005,
                 "model": {
                     "type": "model",
-                    "model": "edoedofishing:item/bait/compressed_plankton_bait"
+                    "model": "edofishing:item/bait/compressed_plankton_bait"
                 }
             },
             {
                 "threshold": 50006,
                 "model": {
                     "type": "model",
-                    "model": "edoedofishing:item/bait/gummy_worm_bait"
+                    "model": "edofishing:item/bait/gummy_worm_bait"
                 }
             },
             {
                 "threshold": 50007,
                 "model": {
                     "type": "model",
-                    "model": "edoedofishing:item/bait/candy_cane_worm_bait"
+                    "model": "edofishing:item/bait/candy_cane_worm_bait"
                 }
             },
             {
                 "threshold": 51001,
                 "model": {
                     "type": "model",
-                    "model": "edoedofishing:item/util/overworld_species_locator"
+                    "model": "edofishing:item/util/overworld_species_locator"
                 }
             },
             {
                 "threshold": 51002,
                 "model": {
                     "type": "model",
-                    "model": "edoedofishing:item/util/nether_species_locator"
+                    "model": "edofishing:item/util/nether_species_locator"
                 }
             },
             {
                 "threshold": 51003,
                 "model": {
                     "type": "model",
-                    "model": "edoedofishing:item/util/premium_locator"
+                    "model": "edofishing:item/util/premium_locator"
                 }
             },
             {
