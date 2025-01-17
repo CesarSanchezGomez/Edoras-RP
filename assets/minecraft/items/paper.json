@@ -1,1 +1,75 @@
-
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/paper"
+        },
+        "entries": [
+            {
+                "threshold": 50003,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/bait/magnetic_bait"
+                }
+            },
+            {
+                "threshold": 50004,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/bait/worm_bait"
+                }
+            },
+            {
+                "threshold": 50005,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/bait/compressed_plankton_bait"
+                }
+            },
+            {
+                "threshold": 50006,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/bait/gummy_worm_bait"
+                }
+            },
+            {
+                "threshold": 50007,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/bait/candy_cane_worm_bait"
+                }
+            },
+            {
+                "threshold": 51001,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/util/overworld_specieS_locator"
+                }
+            },
+            {
+                "threshold": 51002,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/util/nether_species_locator"
+                }
+            },
+            {
+                "threshold": 51004,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/util/premium_locator"
+                }
+            },
+            {
+                "threshold": 51005,
+                "model": {
+                    "type": "model",
+                    "model": "item/paper"
+                }
+            }
+        ]
+    }
+}
