@@ -1,0 +1,260 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "minecraft:condition",
+            "property": "minecraft:fishing_rod/cast",
+            "on_false": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/fishing_rod"
+            },
+            "on_true": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/fishing_rod_cast"
+            }
+        },
+        "entries": [
+            {
+                "threshold": 51001,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/dead_coral_rod"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/dead_coral_rod_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 51002,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/solitary_coral_rod"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/solitary_coral_rod_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 51003,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/coral_whip_rod"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/coral_whip_rod_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 51004,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/black_coral_rod"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/black_coral_rod_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 51005,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/coral_mushroom_rod"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/coral_mushroom_rod_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 51006,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/fire_coral_rod"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/fire_coral_rod_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 51007,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/sun_coral_rod"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/sun_coral_rod_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 51008,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/horn_coral_rod"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/horn_coral_rod_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 52001,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/bone_rod"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/bone_rod_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 52002,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/quartz_rod"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/quartz_rod_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 52003,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/basaltic_rod"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/basaltic_rod_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 52004,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/gilded_rod"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/gilded_rod_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 52005,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/netherite_rod"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/netherite_rod_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 52006,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/carmesi_rod"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/carmesi_rod_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 52007,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/magmatic_rod"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/magmatic_rod_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 52011,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/warped_rod"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/warped_rod_cast"
+                    }
+                }
+            }
+        ]
+    }
+}
