@@ -8,59 +8,248 @@
         },
         "entries": [
             {
+                "threshold": 11001,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edofishing/blue_whale_plushie"
+                }
+            },
+            {
+                "threshold": 11002,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edofishing/dolphin_plushie"
+                }
+            },
+            {
+                "threshold": 11003,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edofishing/manta_ray_plushie"
+                }
+            },
+            {
+                "threshold": 11004,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edofishing/narwhal_plushie"
+                }
+            },
+            {
+                "threshold": 11005,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edofishing/orca_plushie"
+                }
+            },
+            {
+                "threshold": 11006,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edofishing/seal_harp_plushie"
+                }
+            },
+            {
+                "threshold": 20001,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edoxmas/plushie_angel"
+                }
+            },
+            {
+                "threshold": 20002,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edoxmas/plushie_elf_red"
+                }
+            },
+            {
+                "threshold": 20003,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edoxmas/plushie_elf_yellow"
+                }
+            },
+            {
+                "threshold": 20004,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edoxmas/plushie_frosty"
+                }
+            },
+            {
+                "threshold": 20005,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edoxmas/plushie_gingerbread_man"
+                }
+            },
+            {
+                "threshold": 20006,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edoxmas/plushie_gingerbread_woman"
+                }
+            },
+            {
+                "threshold": 20007,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edoxmas/plushie_krampus"
+                }
+            },
+            {
+                "threshold": 20008,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edoxmas/plushie_mrs_claus"
+                }
+            },
+            {
+                "threshold": 20009,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edoxmas/plushie_nutcracker_blue"
+                }
+            },
+            {
+                "threshold": 20010,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edoxmas/plushie_nutcracker_green"
+                }
+            },
+            {
+                "threshold": 20011,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edoxmas/plushie_nutcracker_red"
+                }
+            },
+            {
+                "threshold": 20012,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edoxmas/plushie_penguin"
+                }
+            },
+            {
+                "threshold": 20013,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edoxmas/plushie_reindeer"
+                }
+            },
+            {
+                "threshold": 20014,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edoxmas/plushie_robin"
+                }
+            },
+            {
+                "threshold": 20015,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edoxmas/plushie_rudolph"
+                }
+            },
+            {
+                "threshold": 20016,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edoxmas/plushie_santa"
+                }
+            },
+            {
+                "threshold": 20017,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edoxmas/plushie_santa_hunky"
+                }
+            },
+            {
+                "threshold": 20018,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edoxmas/plushie_scringe"
+                }
+            },
+            {
+                "threshold": 20019,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edoxmas/plushie_scrooge"
+                }
+            },
+            {
+                "threshold": 20020,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edoxmas/plushie_snowman"
+                }
+            },
+            {
+                "threshold": 20021,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edoxmas/plushie_cozy_polar_bear"
+                }
+            },
+            {
                 "threshold": 50003,
                 "model": {
                     "type": "model",
-                    "model": "edofishing:item/bait/magnetic_bait"
+                    "model": "edoedofishing:item/bait/magnetic_bait"
                 }
             },
             {
                 "threshold": 50004,
                 "model": {
                     "type": "model",
-                    "model": "edofishing:item/bait/worm_bait"
+                    "model": "edoedofishing:item/bait/worm_bait"
                 }
             },
             {
                 "threshold": 50005,
                 "model": {
                     "type": "model",
-                    "model": "edofishing:item/bait/compressed_plankton_bait"
+                    "model": "edoedofishing:item/bait/compressed_plankton_bait"
                 }
             },
             {
                 "threshold": 50006,
                 "model": {
                     "type": "model",
-                    "model": "edofishing:item/bait/gummy_worm_bait"
+                    "model": "edoedofishing:item/bait/gummy_worm_bait"
                 }
             },
             {
                 "threshold": 50007,
                 "model": {
                     "type": "model",
-                    "model": "edofishing:item/bait/candy_cane_worm_bait"
+                    "model": "edoedofishing:item/bait/candy_cane_worm_bait"
                 }
             },
             {
                 "threshold": 51001,
                 "model": {
                     "type": "model",
-                    "model": "edofishing:item/util/overworld_specieS_locator"
+                    "model": "edoedofishing:item/util/overworld_species_locator"
                 }
             },
             {
                 "threshold": 51002,
                 "model": {
                     "type": "model",
-                    "model": "edofishing:item/util/nether_species_locator"
+                    "model": "edoedofishing:item/util/nether_species_locator"
                 }
             },
             {
-                "threshold": 51004,
+                "threshold": 51003,
                 "model": {
                     "type": "model",
-                    "model": "edofishing:item/util/premium_locator"
+                    "model": "edoedofishing:item/util/premium_locator"
                 }
             },
             {
