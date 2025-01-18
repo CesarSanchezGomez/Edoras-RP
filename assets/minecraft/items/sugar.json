@@ -4,35 +4,28 @@
         "property": "custom_model_data",
         "fallback": {
             "type": "model",
-            "model": "minecraft:item/snowball"
+            "model": "minecraft:item/sugar"
         },
         "entries": [
             {
                 "threshold": 50001,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/advent_calendar/snowflake"
+                    "model": "edofishing:item/trash/edoxmas/cinnamon"
                 }
             },
             {
                 "threshold": 50002,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/advent_calendar/pocket_snowman"
+                    "model": "edofishing:item/trash/edoxmas/powdered_chocolate"
                 }
             },
             {
                 "threshold": 50003,
                 "model": {
                     "type": "model",
-                    "model": "edofishing:item/trash/edoxmas/snow_mound"
-                }
-            },
-            {
-                "threshold": 50004,
-                "model": {
-                    "type": "model",
-                    "model": "item/snowball"
+                    "model": "item/sugar"
                 }
             }
         ]

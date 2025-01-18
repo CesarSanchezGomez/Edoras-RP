@@ -25,21 +25,21 @@
                 "threshold": 50003,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/fishing_items/chocolate_bucket"
+                    "model": "edofishing:item/trash/edoxmas/chocolate_bucket"
                 }
             },
             {
                 "threshold": 50004,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/fishing_items/white_chocolate_bucket"
+                    "model": "edofishing:item/trash/edoxmas/white_chocolate_bucket"
                 }
             },
             {
                 "threshold": 50005,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/fishing_items/caramel_bucket"
+                    "model": "edofishing:item/trash/edoxmas/caramel_bucket"
                 }
             },
             {
