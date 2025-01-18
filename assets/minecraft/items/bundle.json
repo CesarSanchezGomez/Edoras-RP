@@ -1,0 +1,125 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "minecraft:select",
+            "cases": [
+                {
+                    "model": {
+                        "type": "minecraft:condition",
+                        "on_false": {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item/bundle"
+                        },
+                        "on_true": {
+                            "type": "minecraft:composite",
+                            "models": [
+                                {
+                                    "type": "minecraft:model",
+                                    "model": "minecraft:item/bundle_open_back"
+                                },
+                                {
+                                    "type": "minecraft:bundle/selected_item"
+                                },
+                                {
+                                    "type": "minecraft:model",
+                                    "model": "minecraft:item/bundle_open_front"
+                                }
+                            ]
+                        },
+                        "property": "minecraft:bundle/has_selected_item"
+                    },
+                    "when": "gui"
+                }
+            ],
+            "fallback": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/bundle"
+            },
+            "property": "minecraft:display_context"
+        },
+        "entries": [
+            {
+                "threshold": 50001,
+                "model": {
+                    "type": "minecraft:select",
+                    "cases": [
+                        {
+                            "model": {
+                                "type": "minecraft:condition",
+                                "on_false": {
+                                    "type": "minecraft:model",
+                                    "model": "edoxmas:item/advent_calendar/edonel_bundle"
+                                },
+                                "on_true": {
+                                    "type": "minecraft:composite",
+                                    "models": [
+                                        {
+                                            "type": "minecraft:model",
+                                            "model": "edoxmas:item/advent_calendar/edonel_bundle_open_back"
+                                        },
+                                        {
+                                            "type": "minecraft:bundle/selected_item"
+                                        },
+                                        {
+                                            "type": "minecraft:model",
+                                            "model": "edoxmas:item/advent_calendar/edonel_bundle_open_front"
+                                        }
+                                    ]
+                                },
+                                "property": "minecraft:bundle/has_selected_item"
+                            },
+                            "when": "gui"
+                        }
+                    ],
+                    "fallback": {
+                        "type": "minecraft:model",
+                        "model": "edoxmas:item/advent_calendar/edonel_bundle"
+                    },
+                    "property": "minecraft:display_context"
+                }
+            },
+            {
+                "threshold": 50002,
+                "model": {
+                    "type": "minecraft:select",
+                    "cases": [
+                        {
+                            "model": {
+                                "type": "minecraft:condition",
+                                "on_false": {
+                                    "type": "minecraft:model",
+                                    "model": "minecraft:item/bundle"
+                                },
+                                "on_true": {
+                                    "type": "minecraft:composite",
+                                    "models": [
+                                        {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/bundle_open_back"
+                                        },
+                                        {
+                                            "type": "minecraft:bundle/selected_item"
+                                        },
+                                        {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/bundle_open_front"
+                                        }
+                                    ]
+                                },
+                                "property": "minecraft:bundle/has_selected_item"
+                            },
+                            "when": "gui"
+                        }
+                    ],
+                    "fallback": {
+                        "type": "minecraft:model",
+                        "model": "minecraft:item/bundle"
+                    },
+                    "property": "minecraft:display_context"
+                }
+            }
+        ]
+    }
+}
