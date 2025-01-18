@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "edoween:item/corn_set/corn_roller"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/netherite_pickaxe"
+        },
+        "entries": [
+            {
+                "threshold": 50001,
+                "model": {
+                    "type": "model",
+                    "model": "edoween:item/infernal_set/infernal_pickaxe"
+                }
+            },
+            {
+                "threshold": 50002,
+                "model": {
+                    "type": "model",
+                    "model": "edoween:item/bone_set/bone_pickaxe"
+                }
+            },
+            {
+                "threshold": 50003,
+                "model": {
+                    "type": "model",
+                    "model": "edoxmas:item/candy_cane_set/candy_cane_pickaxe"
+                }
+            },
+            {
+                "threshold": 50004,
+                "model": {
+                    "type": "model",
+                    "model": "edoxmas:item/glacial_set/glacial_pickaxe"
+                }
+            },
+            {
+                "threshold": 51000,
+                "model": {
+                    "type": "model",
+                    "model": "item/netherite_pickaxe"
+                }
+            }
+        ]
+    }
+}

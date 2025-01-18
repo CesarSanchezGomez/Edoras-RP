@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/crossbow",
+    "textures": {
+        "layer0": "edoween:item/bone_set/bone_crossbow"
+    }
+}
