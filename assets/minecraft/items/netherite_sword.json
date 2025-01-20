@@ -53,7 +53,7 @@
                 "threshold": 50007,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/mercadillo/sable_yoda_jossu3"
+                    "model": "edoxmas:item/market/yoda_lightsaber"
                 }
             },
             {
@@ -67,7 +67,7 @@
                 "threshold": 51001,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/mercadillo/espada_potes"
+                    "model": "edoxmas:item/market/little_tree_of_san_potes"
                 }
             },
             {

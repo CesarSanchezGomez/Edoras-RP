@@ -4,28 +4,21 @@
         "property": "custom_model_data",
         "fallback": {
             "type": "model",
-            "model": "minecraft:item/glass_bottle"
+            "model": "minecraft:item/cake"
         },
         "entries": [
             {
                 "threshold": 50001,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/advent_calendar/christmas_ball"
+                    "model": "edoxmas:item/market/christmas_donut"
                 }
             },
             {
                 "threshold": 50002,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/market/bottled_snow"
-                }
-            },
-            {
-                "threshold": 50004,
-                "model": {
-                    "type": "model",
-                    "model": "item/glass_bottle"
+                    "model": "item/cake"
                 }
             }
         ]

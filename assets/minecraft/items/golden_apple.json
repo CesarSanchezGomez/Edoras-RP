@@ -4,28 +4,35 @@
         "property": "custom_model_data",
         "fallback": {
             "type": "model",
-            "model": "minecraft:item/glass_bottle"
+            "model": "minecraft:item/golden_apple"
         },
         "entries": [
             {
                 "threshold": 50001,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/advent_calendar/christmas_ball"
+                    "model": "edoween:item/apples/manzana_envenenada"
                 }
             },
             {
                 "threshold": 50002,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/market/bottled_snow"
+                    "model": "edoxmas:item/market/camel_food"
+                }
+            },
+            {
+                "threshold": 50003,
+                "model": {
+                    "type": "model",
+                    "model": "edoxmas:item/market/gingerbread_dragon"
                 }
             },
             {
                 "threshold": 50004,
                 "model": {
                     "type": "model",
-                    "model": "item/glass_bottle"
+                    "model": "item/golden_apple"
                 }
             }
         ]

@@ -4,28 +4,28 @@
         "property": "custom_model_data",
         "fallback": {
             "type": "model",
-            "model": "minecraft:item/glass_bottle"
+            "model": "minecraft:item/pumpkin_pie"
         },
         "entries": [
             {
                 "threshold": 50001,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/advent_calendar/christmas_ball"
+                    "model": "edoxmas:item/market/imperial_pestino"
                 }
             },
             {
                 "threshold": 50002,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/market/bottled_snow"
+                    "model": "edoxmas:item/market/pumpkin_shortbread"
                 }
             },
             {
-                "threshold": 50004,
+                "threshold": 50003,
                 "model": {
                     "type": "model",
-                    "model": "item/glass_bottle"
+                    "model": "item/pumpkin_pie"
                 }
             }
         ]

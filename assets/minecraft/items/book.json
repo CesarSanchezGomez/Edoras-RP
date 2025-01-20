@@ -18,7 +18,7 @@
                 "threshold": 50002,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/mercadillo/libro_navideno_daftmine"
+                    "model": "edoxmas:item/market/edonel_magic_book"
                 }
             },
             {

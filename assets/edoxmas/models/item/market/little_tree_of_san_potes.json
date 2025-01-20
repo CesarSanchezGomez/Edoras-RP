@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "edoxmas:item/market/little_tree_of_san_potes"
+    }
+}
