@@ -9,6 +9,11 @@
             "type": "directory",
             "source": "plushies",
             "prefix": "plushies/"
+        },
+        {
+            "type": "directory",
+            "source": "hats",
+            "prefix": "hats/"
         }
     ]
 }
