@@ -1,0 +1,131 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/potato"
+        },
+        "entries": [
+            {
+                "threshold": 50001,
+                "model": {
+                    "type": "model",
+                    "model": "edoween:item/trash/marshmallow_jellybean"
+                }
+            },
+            {
+                "threshold": 50002,
+                "model": {
+                    "type": "model",
+                    "model": "edoween:item/trash/onion_jellybean"
+                }
+            },
+            {
+                "threshold": 50003,
+                "model": {
+                    "type": "model",
+                    "model": "edoween:item/trash/dirty_sock_jellybean"
+                }
+            },
+            {
+                "threshold": 50004,
+                "model": {
+                    "type": "model",
+                    "model": "edoween:item/trash/black_pepper_jellybean"
+                }
+            },
+            {
+                "threshold": 50005,
+                "model": {
+                    "type": "model",
+                    "model": "edoween:item/trash/dirt_jellybean"
+                }
+            },
+            {
+                "threshold": 50006,
+                "model": {
+                    "type": "model",
+                    "model": "edoween:item/trash/tomato_jellybean"
+                }
+            },
+            {
+                "threshold": 50007,
+                "model": {
+                    "type": "model",
+                    "model": "edoween:item/trash/vomit_jellybean"
+                }
+            },
+            {
+                "threshold": 50008,
+                "model": {
+                    "type": "model",
+                    "model": "edoween:item/trash/rotten_egg_jellybean"
+                }
+            },
+            {
+                "threshold": 50009,
+                "model": {
+                    "type": "model",
+                    "model": "edoween:item/trash/booger_jellybean"
+                }
+            },
+            {
+                "threshold": 50010,
+                "model": {
+                    "type": "model",
+                    "model": "edoween:item/trash/grass_jellybean"
+                }
+            },
+            {
+                "threshold": 50011,
+                "model": {
+                    "type": "model",
+                    "model": "edoween:item/trash/sardine_jellybean"
+                }
+            },
+            {
+                "threshold": 50012,
+                "model": {
+                    "type": "model",
+                    "model": "edoween:item/trash/toothpaste_jellybean"
+                }
+            },
+            {
+                "threshold": 50013,
+                "model": {
+                    "type": "model",
+                    "model": "edoween:item/trash/blueberry_jellybean"
+                }
+            },
+            {
+                "threshold": 50014,
+                "model": {
+                    "type": "model",
+                    "model": "edoween:item/trash/grape_jelly_jellybean"
+                }
+            },
+            {
+                "threshold": 50015,
+                "model": {
+                    "type": "model",
+                    "model": "edoween:item/trash/earthworm_jellybean"
+                }
+            },
+            {
+                "threshold": 50016,
+                "model": {
+                    "type": "model",
+                    "model": "edoween:item/trash/shrimp_jellybean"
+                }
+            },
+            {
+                "threshold": 50017,
+                "model": {
+                    "type": "model",
+                    "model": "item/potato"
+                }
+            }
+        ]
+    }
+}

@@ -11,14 +11,14 @@
                 "threshold": 50001,
                 "model": {
                     "type": "model",
-                    "model": "edoween:item/apples/manzana_podrida"
+                    "model": "edoween:item/trash/rotten_apple"
                 }
             },
             {
                 "threshold": 50002,
                 "model": {
                     "type": "model",
-                    "model": "edoween:item/apples/manzana_ciclope"
+                    "model": "edoween:item/trash/cyclops_apple"
                 }
             },
             {
@@ -29,7 +29,7 @@
                 }
             },
             {
-                "threshold": 51000,
+                "threshold": 50004,
                 "model": {
                     "type": "model",
                     "model": "item/apple"

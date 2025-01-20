@@ -11,21 +11,21 @@
                 "threshold": 50001,
                 "model": {
                     "type": "model",
-                    "model": "edoween:item/honey_bottle/oso_gominola_de_fresa"
+                    "model": "edoween:item/trash/strawberry_gummy_bear"
                 }
             },
             {
                 "threshold": 50002,
                 "model": {
                     "type": "model",
-                    "model": "edoween:item/honey_bottle/cerebro_gominola_de_limon"
+                    "model": "edoween:item/trash/lemon_gummy_brain"
                 }
             },
             {
                 "threshold": 50003,
                 "model": {
                     "type": "model",
-                    "model": "edoween:item/honey_bottle/ojo_gominola"
+                    "model": "edoween:item/trash/gummy_eye"
                 }
             },
             {
@@ -36,7 +36,7 @@
                 }
             },
             {
-                "threshold": 51000,
+                "threshold": 50005,
                 "model": {
                     "type": "model",
                     "model": "item/honey_bottle"

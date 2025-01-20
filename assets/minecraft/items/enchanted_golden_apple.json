@@ -11,21 +11,21 @@
                 "threshold": 50001,
                 "model": {
                     "type": "model",
-                    "model": "edoween:item/trash/poisoned_apple"
+                    "model": "edoween:item/trash/caramelized_apple"
                 }
             },
             {
                 "threshold": 50002,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/market/camel_food"
+                    "model": "edoween:item/trash/haunted_apple"
                 }
             },
             {
                 "threshold": 50003,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/market/gingerbread_dragon"
+                    "model": "edoween:item/trash/enchanted_pumpkin"
                 }
             },
             {

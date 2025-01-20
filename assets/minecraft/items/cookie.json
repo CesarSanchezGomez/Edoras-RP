@@ -4,28 +4,21 @@
         "property": "custom_model_data",
         "fallback": {
             "type": "model",
-            "model": "minecraft:item/ender_pearl"
+            "model": "minecraft:item/cookie"
         },
         "entries": [
             {
                 "threshold": 50001,
                 "model": {
                     "type": "model",
-                    "model": "edoween:item/trash/bubblegum_pearl"
+                    "model": "edoween:item/trash/edoween_cookie"
                 }
             },
             {
                 "threshold": 50002,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/advent_calendar/frozen_ender_pearl"
-                }
-            },
-            {
-                "threshold": 50003,
-                "model": {
-                    "type": "model",
-                    "model": "item/ender_pearl"
+                    "model": "item/cookie"
                 }
             }
         ]
