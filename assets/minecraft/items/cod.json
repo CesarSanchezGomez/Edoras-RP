@@ -1331,6 +1331,27 @@
                 }
             },
             {
+                "threshold": 58001,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/regional/pez_asesino_moteado"
+                }
+            },
+            {
+                "threshold": 58002,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/regional/rata_gerfasiana"
+                }
+            },
+            {
+                "threshold": 58003,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/regional/renacuajo_luminoso"
+                }
+            },
+            {
                 "threshold": 60001,
                 "model": {
                     "type": "model",
