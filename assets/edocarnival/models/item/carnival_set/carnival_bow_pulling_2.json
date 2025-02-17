@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/bow_pulling_2",
+    "textures": {
+        "layer0": "edocarnival:item/carnival_set/carnival_bow_pulling_2"
+    }
+}

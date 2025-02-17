@@ -36,6 +36,13 @@
                 }
             },
             {
+                "threshold": 50005,
+                "model": {
+                    "type": "model",
+                    "model": "edocarnival:item/carnival_set/carnival_mace"
+                }
+            },
+            {
                 "threshold": 51000,
                 "model": {
                     "type": "model",

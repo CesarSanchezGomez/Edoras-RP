@@ -1,0 +1,40 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/lime_dye"
+        },
+        "entries": [
+            {
+                "threshold": 50001,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/trash/edocarnival/serpentines"
+                }
+            },
+            {
+                "threshold": 50002,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/trash/edocarnival/confetti"
+                }
+            },
+            {
+                "threshold": 50003,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/trash/edocarnival/pinata"
+                }
+            },
+            {
+                "threshold": 50004,
+                "model": {
+                    "type": "model",
+                    "model": "item/lime_dye"
+                }
+            }
+        ]
+    }
+}

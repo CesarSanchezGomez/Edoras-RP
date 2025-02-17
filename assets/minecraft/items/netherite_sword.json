@@ -64,6 +64,13 @@
                 }
             },
             {
+                "threshold": 50009,
+                "model": {
+                    "type": "model",
+                    "model": "edocarnival:item/carnival_set/carnival_sword"
+                }
+            },
+            {
                 "threshold": 50010,
                 "model": {
                     "type": "model",

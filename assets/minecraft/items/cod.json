@@ -1744,6 +1744,69 @@
                 }
             },
             {
+                "threshold": 64001,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edocarnival/bacalao_globo"
+                }
+            },
+            {
+                "threshold": 64002,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edocarnival/lorito_azul"
+                }
+            },
+            {
+                "threshold": 64003,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edocarnival/pez_confeti"
+                }
+            },
+            {
+                "threshold": 64004,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edocarnival/pez_globo_globo"
+                }
+            },
+            {
+                "threshold": 64005,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edocarnival/pez_pinata"
+                }
+            },
+            {
+                "threshold": 64006,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edocarnival/plumana"
+                }
+            },
+            {
+                "threshold": 64007,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edocarnival/rana_carnavalera"
+                }
+            },
+            {
+                "threshold": 64008,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edocarnival/serpientina"
+                }
+            },
+            {
+                "threshold": 64009,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edocarnival/tiburon_confeti"
+                }
+            },
+            {
                 "threshold": 70000,
                 "model": {
                     "type": "model",

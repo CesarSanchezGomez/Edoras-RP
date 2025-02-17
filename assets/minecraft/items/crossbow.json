@@ -276,6 +276,61 @@
                 }
             },
             {
+                "threshold": 50005,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:select",
+                        "property": "minecraft:charge_type",
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "edocarnival:item/carnival_set/carnival_crossbow"
+                        },
+                        "cases": [
+                            {
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "edocarnival:item/carnival_set/carnival_crossbow_arrow"
+                                },
+                                "when": "arrow"
+                            },
+                            {
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "edocarnival:item/carnival_set/carnival_crossbow_firework"
+                                },
+                                "when": "rocket"
+                            }
+                        ]
+                    },
+                    "on_true": {
+                        "type": "minecraft:range_dispatch",
+                        "property": "minecraft:crossbow/pull",
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "edocarnival:item/carnival_set/carnival_crossbow_pulling_0"
+                        },
+                        "entries": [
+                            {
+                                "threshold": 0.58,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "edocarnival:item/carnival_set/carnival_crossbow_pulling_1"
+                                }
+                            },
+                            {
+                                "threshold": 1.0,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "edocarnival:item/carnival_set/carnival_crossbow_pulling_2"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
                 "threshold": 51000,
                 "model": {
                     "type": "minecraft:condition",

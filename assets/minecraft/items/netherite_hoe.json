@@ -43,6 +43,13 @@
                 }
             },
             {
+                "threshold": 50006,
+                "model": {
+                    "type": "model",
+                    "model": "edocarnival:item/carnival_set/carnival_hoe"
+                }
+            },
+            {
                 "threshold": 51000,
                 "model": {
                     "type": "model",

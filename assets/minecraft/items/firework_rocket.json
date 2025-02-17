@@ -18,6 +18,27 @@
                 "threshold": 50002,
                 "model": {
                     "type": "model",
+                    "model": "edofishing:item/trash/edocarnival/red_firework"
+                }
+            },
+            {
+                "threshold": 50003,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/trash/edocarnival/green_firework"
+                }
+            },
+            {
+                "threshold": 50004,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/trash/edocarnival/yellow_firework"
+                }
+            },
+            {
+                "threshold": 50005,
+                "model": {
+                    "type": "model",
                     "model": "item/firework_rocket"
                 }
             }
