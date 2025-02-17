@@ -1681,6 +1681,69 @@
                 }
             },
             {
+                "threshold": 63001,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edovalentines/ballena_carmesi"
+                }
+            },
+            {
+                "threshold": 63002,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edovalentines/carpa_koi_del_amor"
+                }
+            },
+            {
+                "threshold": 63003,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edovalentines/medusa_corazon"
+                }
+            },
+            {
+                "threshold": 63004,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edovalentines/oso_de_peluche"
+                }
+            },
+            {
+                "threshold": 63005,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edovalentines/pez_barra_de_chocolate"
+                }
+            },
+            {
+                "threshold": 63006,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edovalentines/pez_chocofresa"
+                }
+            },
+            {
+                "threshold": 63007,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edovalentines/pez_cupido"
+                }
+            },
+            {
+                "threshold": 63008,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edovalentines/pez_ramo"
+                }
+            },
+            {
+                "threshold": 63009,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edovalentines/rana_elegante"
+                }
+            },
+            {
                 "threshold": 70000,
                 "model": {
                     "type": "model",

@@ -1,0 +1,26 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/beetroot"
+        },
+        "entries": [
+            {
+                "threshold": 50001,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/trash/edovalentines/strawberry_with_chocolate"
+                }
+            },
+            {
+                "threshold": 50002,
+                "model": {
+                    "type": "model",
+                    "model": "item/beetroot"
+                }
+            }
+        ]
+    }
+}

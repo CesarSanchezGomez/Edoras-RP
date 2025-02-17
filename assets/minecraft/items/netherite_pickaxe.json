@@ -36,6 +36,13 @@
                 }
             },
             {
+                "threshold": 50004,
+                "model": {
+                    "type": "model",
+                    "model": "edovalentines:item/cupid_set/cupid_pickaxe"
+                }
+            },
+            {
                 "threshold": 51000,
                 "model": {
                     "type": "model",

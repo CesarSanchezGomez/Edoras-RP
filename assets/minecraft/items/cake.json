@@ -18,6 +18,13 @@
                 "threshold": 50002,
                 "model": {
                     "type": "model",
+                    "model": "edofishing:item/trash/edovalentines/cherry_cake"
+                }
+            },
+            {
+                "threshold": 50003,
+                "model": {
+                    "type": "model",
                     "model": "item/cake"
                 }
             }

@@ -25,6 +25,13 @@
                 "threshold": 50003,
                 "model": {
                     "type": "model",
+                    "model": "edofishing:item/trash/edovalentines/heart_berries"
+                }
+            },
+            {
+                "threshold": 50004,
+                "model": {
+                    "type": "model",
                     "model": "item/sweet_berries"
                 }
             }
