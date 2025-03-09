@@ -18,14 +18,14 @@
                 "threshold": 50009,
                 "model": {
                     "type": "model",
-                    "model": "edohats:hats/edoxmas/edonel_light_blue_hat"
+                    "model": "edohats:hats/edoxmas/edonel_lime_hat"
                 }
             },
             {
                 "threshold": 50012,
                 "model": {
                     "type": "model",
-                    "model": "edohats:hats/edoxmas/edonel_lime_hat"
+                    "model": "edohats:hats/edoxmas/edonel_light_blue_hat"
                 }
             },
             {

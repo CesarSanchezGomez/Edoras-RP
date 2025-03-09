@@ -19,7 +19,7 @@
 		"sounds": [
 			{
 				"name": "edorasrecords:records/children_of_the_sky",
-				"stream": true
+                "stream": true
 			}
 		]
 	},
@@ -27,15 +27,7 @@
 		"sounds": [
 			{
 				"name": "edorasrecords:records/dream_on",
-				"stream": true
-			}
-		]
-	},
-	"music_disc.enemy": {
-		"sounds": [
-			{
-				"name": "edorasrecords:records/enemy",
-				"stream": true
+                "stream": true
 			}
 		]
 	},
@@ -43,7 +35,7 @@
 		"sounds": [
 			{
 				"name": "edorasrecords:records/fast_car",
-				"stream": true
+                "stream": true
 			}
 		]
 	},
@@ -51,7 +43,7 @@
 		"sounds": [
 			{
 				"name": "edorasrecords:records/golden_hour",
-				"stream": true
+                "stream": true
 			}
 		]
 	},
@@ -59,7 +51,7 @@
 		"sounds": [
 			{
 				"name": "edorasrecords:records/hijo_de_la_luna",
-				"stream": true
+                "stream": true
 			}
 		]
 	},
@@ -67,7 +59,7 @@
 		"sounds": [
 			{
 				"name": "edorasrecords:records/hit_the_road_jack",
-				"stream": true
+                "stream": true
 			}
 		]
 	},
@@ -75,7 +67,7 @@
 		"sounds": [
 			{
 				"name": "edorasrecords:records/houdini",
-				"stream": true
+                "stream": true
 			}
 		]
 	},
@@ -83,7 +75,7 @@
 		"sounds": [
 			{
 				"name": "edorasrecords:records/i_will_survive",
-				"stream": true
+                "stream": true
 			}
 		]
 	},
@@ -91,7 +83,7 @@
 		"sounds": [
 			{
 				"name": "edorasrecords:records/las_avispas",
-				"stream": true
+                "stream": true
 			}
 		]
 	},
@@ -99,15 +91,7 @@
 		"sounds": [
 			{
 				"name": "edorasrecords:records/locked_out_of_heaven",
-				"stream": true
-			}
-		]
-	},
-	"music_disc.ma_meilleure_ennemie": {
-		"sounds": [
-			{
-				"name": "edorasrecords:records/ma_meilleure_ennemie",
-				"stream": true
+                "stream": true
 			}
 		]
 	},
@@ -115,7 +99,7 @@
 		"sounds": [
 			{
 				"name": "edorasrecords:records/mambo_no_5",
-				"stream": true
+                "stream": true
 			}
 		]
 	},
@@ -123,7 +107,7 @@
 		"sounds": [
 			{
 				"name": "edorasrecords:records/never_gonna_give_you_up",
-				"stream": true
+                "stream": true
 			}
 		]
 	},
@@ -131,15 +115,7 @@
 		"sounds": [
 			{
 				"name": "edorasrecords:records/para_no_verte_mas",
-				"stream": true
-			}
-		]
-	},
-	"music_disc.ride": {
-		"sounds": [
-			{
-				"name": "edorasrecords:records/ride",
-				"stream": true
+                "stream": true
 			}
 		]
 	},
@@ -147,23 +123,7 @@
 		"sounds": [
 			{
 				"name": "edorasrecords:records/salome",
-				"stream": true
-			}
-		]
-	},
-	"music_disc.the_line": {
-		"sounds": [
-			{
-				"name": "edorasrecords:records/the_line",
-				"stream": true
-			}
-		]
-	},
-	"music_disc.this_is_why_we_cant_have_nice_things": {
-		"sounds": [
-			{
-				"name": "edorasrecords:records/this_is_why_we_cant_have_nice_things",
-				"stream": true
+                "stream": true
 			}
 		]
 	},
@@ -171,88 +131,64 @@
 		"sounds": [
 			{
 				"name": "edorasrecords:records/warriors",
-				"stream": true
+                "stream": true
 			}
 		]
 	},
 	"music_disc.gestor": {
-		"sounds": [
-			{
-				"name": "edorasrecords:records/gestor",
-				"stream": true
-			}
-		]
-	},
-	"music_disc.muerdeme_danpiro": {
-		"sounds": [
-			{
-				"name": "edorasrecords:records/muerdeme_danpiro",
-				"stream": true
-			}
-		]
-	},
-	"music_disc.tolvas_2_0": {
-		"sounds": [
-			{
-				"name": "edorasrecords:records/tolvas_2_0",
-				"stream": true
-			}
-		]
-	},
-	"music_disc.demasiado_gili": {
-		"sounds": [
-			{
-				"name": "edorasrecords:records/demasiado_gili",
-				"stream": true
-			}
-		]
-	},
-	"music_disc.mistletoe": {
-		"sounds": [
-			{
-				"name": "edorasrecords:records/mistletoe",
-				"stream": true
-			}
-		]
-	},
-	"music_disc.el_burrito_sabanero": {
-		"sounds": [
-			{
-				"name": "edorasrecords:records/el_burrito_sabanero",
-				"stream": true
-			}
-		]
-	},
-	"music_disc.santas_coming_for_us": {
-		"sounds": [
-			{
-				"name": "edorasrecords:records/santas_coming_for_us",
-				"stream": true
-			}
-		]
-	},
-	"music_disc.snowman": {
-		"sounds": [
-			{
-				"name": "edorasrecords:records/snowman",
-				"stream": true
-			}
-		]
-	},
-	"music_disc.rata_de_dos_patas": {
-		"sounds": [
-			{
-				"name": "edorasrecords:records/rata_de_dos_patas",
-				"stream": true
-			}
-		]
-	},
+        "sounds": [
+            {
+                "name": "edorasrecords:records/gestor",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.muerdeme_danpiro": {
+        "sounds": [
+            {
+                "name": "edorasrecords:records/muerdeme_danpiro",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.tolvas_2_0": {
+        "sounds": [
+            {
+                "name": "edorasrecords:records/tolvas_2_0",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.demasiado_gili": {
+        "sounds": [
+            {
+                "name": "edorasrecords:records/demasiado_gili",
+                "stream": true
+            }
+        ]
+    },
 	"music_disc.brujeria": {
-		"sounds": [
-			{
-				"name": "edorasrecords:records/brujeria",
-				"stream": true
-			}
-		]
-	}
+        "sounds": [
+            {
+                "name": "edorasrecords:records/brujeria",
+                "stream": true
+            }
+        ]
+    },
+	"music_disc.extremaydura": {
+        "sounds": [
+            {
+                "name": "edorasrecords:records/extremaydura",
+                "stream": true
+            }
+        ]
+    },
+	"music_disc.carnaval_edochas": {
+        "sounds": [
+            {
+                "name": "edorasrecords:records/carnaval_edochas",
+                "stream": true
+            }
+        ]
+    }
 }

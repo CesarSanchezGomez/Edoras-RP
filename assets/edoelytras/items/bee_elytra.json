@@ -1,0 +1,14 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "edoelytras:item/bee_elytra"
+    },
+    "on_true": {
+      "type": "minecraft:model",
+      "model": "edoelytras:item/bee_broken_elytra"
+    },
+    "property": "minecraft:broken"
+  }
+}

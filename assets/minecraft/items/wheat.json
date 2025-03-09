@@ -4,7 +4,7 @@
         "property": "custom_model_data",
         "fallback": {
             "type": "model",
-            "model": "minecraft:item/lime_dye"
+            "model": "minecraft:item/wheat"
         },
         "entries": [
             {
@@ -18,7 +18,7 @@
                 "threshold": 50002,
                 "model": {
                     "type": "model",
-                    "model": "item/lime_dye"
+                    "model": "item/wheat"
                 }
             }
         ]

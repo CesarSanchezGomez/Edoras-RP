@@ -1,0 +1,14 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "edoelytras:item/infernal_elytra"
+    },
+    "on_true": {
+      "type": "minecraft:model",
+      "model": "edoelytras:item/infernal_broken_elytra"
+    },
+    "property": "minecraft:broken"
+  }
+}

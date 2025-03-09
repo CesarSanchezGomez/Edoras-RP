@@ -1285,7 +1285,7 @@
                 "threshold": 56021,
                 "model": {
                     "type": "model",
-                    "model": "edofishing:item/fish/divinepez_diablo_de_lava"
+                    "model": "edofishing:item/fish/divine/pez_diablo_de_lava"
                 }
             },
             {
@@ -1349,6 +1349,13 @@
                 "model": {
                     "type": "model",
                     "model": "edofishing:item/fish/regional/renacuajo_luminoso"
+                }
+            },
+            {
+                "threshold": 58004,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/regional/pez_cerezo"
                 }
             },
             {
