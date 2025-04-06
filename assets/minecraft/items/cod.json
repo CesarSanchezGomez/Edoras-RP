@@ -1814,6 +1814,384 @@
                 }
             },
             {
+                "threshold": 65001,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_allay"
+                }
+            },
+            {
+                "threshold": 65002,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_amarillo"
+                }
+            },
+            {
+                "threshold": 65003,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_amatista"
+                }
+            },
+            {
+                "threshold": 65004,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_arcilloso"
+                }
+            },
+            {
+                "threshold": 65005,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_arenoso"
+                }
+            },
+            {
+                "threshold": 65006,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_asesino"
+                }
+            },
+            {
+                "threshold": 65007,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_azalea_florecida"
+                }
+            },
+            {
+                "threshold": 65008,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_basaltico"
+                }
+            },
+            {
+                "threshold": 65009,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_blanco"
+                }
+            },
+            {
+                "threshold": 65010,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_calcareo"
+                }
+            },
+            {
+                "threshold": 65011,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_carmesi"
+                }
+            },
+            {
+                "threshold": 65012,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_champinon_rojo"
+                }
+            },
+            {
+                "threshold": 65013,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_cobrizo"
+                }
+            },
+            {
+                "threshold": 65014,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_crema_de_magma"
+                }
+            },
+            {
+                "threshold": 65015,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_dimensional"
+                }
+            },
+            {
+                "threshold": 65016,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_distorsionado"
+                }
+            },
+            {
+                "threshold": 65017,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_esqueleto"
+                }
+            },
+            {
+                "threshold": 65018,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_glacial"
+                }
+            },
+            {
+                "threshold": 65019,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_helado"
+                }
+            },
+            {
+                "threshold": 65020,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_infernal"
+                }
+            },
+            {
+                "threshold": 65021,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_karstico"
+                }
+            },
+            {
+                "threshold": 65022,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_magmatico"
+                }
+            },
+            {
+                "threshold": 65023,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_marron"
+                }
+            },
+            {
+                "threshold": 65024,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_meloso"
+                }
+            },
+            {
+                "threshold": 65025,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_moteado"
+                }
+            },
+            {
+                "threshold": 65026,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_musgoso"
+                }
+            },
+            {
+                "threshold": 65027,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_negro"
+                }
+            },
+            {
+                "threshold": 65028,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_podzolico"
+                }
+            },
+            {
+                "threshold": 65029,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_resinoso"
+                }
+            },
+            {
+                "threshold": 65030,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_sal_y_pimienta"
+                }
+            },
+            {
+                "threshold": 65031,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_sculk"
+                }
+            },
+            {
+                "threshold": 65032,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_slime"
+                }
+            },
+            {
+                "threshold": 65033,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_terracota"
+                }
+            },
+            {
+                "threshold": 65034,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_toast"
+                }
+            },
+            {
+                "threshold": 65035,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_tobaceo"
+                }
+            },
+            {
+                "threshold": 65036,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_tronco_de_cerezo"
+                }
+            },
+            {
+                "threshold": 65037,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_verdigris"
+                }
+            },
+            {
+                "threshold": 65038,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_jeb"
+                }
+            },
+            {
+                "threshold": 65039,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_lanudo_blanco"
+                }
+            },
+            {
+                "threshold": 65040,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_lanudo_gris_claro"
+                }
+            },
+            {
+                "threshold": 65041,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_lanudo_gris"
+                }
+            },
+            {
+                "threshold": 65042,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_lanudo_negro"
+                }
+            },
+            {
+                "threshold": 65043,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_lanudo_marron"
+                }
+            },
+            {
+                "threshold": 65044,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_lanudo_rojo"
+                }
+            },
+            {
+                "threshold": 65045,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_lanudo_naranja"
+                }
+            },
+            {
+                "threshold": 65046,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_lanudo_amarillo"
+                }
+            },
+            {
+                "threshold": 65047,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_lanudo_verde_lima"
+                }
+            },
+            {
+                "threshold": 65048,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_lanudo_verde"
+                }
+            },
+            {
+                "threshold": 65049,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_lanudo_cian"
+                }
+            },
+            {
+                "threshold": 65050,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_lanudo_celeste"
+                }
+            },
+            {
+                "threshold": 65051,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_lanudo_azul"
+                }
+            },
+            {
+                "threshold": 65052,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_lanudo_morado"
+                }
+            },
+            {
+                "threshold": 65053,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_lanudo_magenta"
+                }
+            },
+            {
+                "threshold": 65054,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/conejo_lanudo_rosa"
+                }
+            },
+            {
                 "threshold": 70000,
                 "model": {
                     "type": "model",

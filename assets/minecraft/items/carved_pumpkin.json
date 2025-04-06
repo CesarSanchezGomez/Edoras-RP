@@ -36,10 +36,10 @@
                 }
             },
             {
-                "threshold": 50005,
+                "threshold": 51001,
                 "model": {
                     "type": "model",
-                    "model": "edohats:hats/edoween/witch_hat"
+                    "model": "edohats:hats/edospring/flower_crown"
                 }
             },
             {

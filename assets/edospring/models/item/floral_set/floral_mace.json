@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "edospring:item/floral_set/floral_mace"
+    }
+}

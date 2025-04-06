@@ -295,6 +295,90 @@
                 }
             },
             {
+                "threshold": 22001,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edospring/plushie_moobloom_wither_rose"
+                }
+            },
+            {
+                "threshold": 22002,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edospring/plushie_moobloom_blue_orchid"
+                }
+            },
+            {
+                "threshold": 22003,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edospring/plushie_moobloom_sunflower"
+                }
+            },
+            {
+                "threshold": 22004,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edospring/plushie_moobloom_oxeye_daisy"
+                }
+            },
+            {
+                "threshold": 22005,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edospring/plushie_moobloom_allium"
+                }
+            },
+            {
+                "threshold": 22006,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edospring/plushie_moobloom_cornflower"
+                }
+            },
+            {
+                "threshold": 22007,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edospring/plushie_moobloom_cactus"
+                }
+            },
+            {
+                "threshold": 22008,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edospring/plushie_moobloom_chorus_flower"
+                }
+            },
+            {
+                "threshold": 22009,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edospring/plushie_moobloom_poppy"
+                }
+            },
+            {
+                "threshold": 22010,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edospring/plushie_moobloom_dandelion"
+                }
+            },
+            {
+                "threshold": 22011,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edospring/plushie_moobloom_bamboo"
+                }
+            },
+            {
+                "threshold": 22012,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edospring/plushie_moobloom_glowberry"
+                }
+            },
+            {
                 "threshold": 50003,
                 "model": {
                     "type": "model",

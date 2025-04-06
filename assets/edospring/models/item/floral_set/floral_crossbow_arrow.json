@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/crossbow_arrow",
+    "textures": {
+        "layer0": "edospring:item/floral_set/floral_crossbow_arrow"
+    }
+}

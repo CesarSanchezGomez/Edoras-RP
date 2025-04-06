@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/fishing_rod",
+    "textures": {
+        "layer0": "edospring:item/floral_set/floral_fishing_rod"
+    }
+}
